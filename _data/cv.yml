@@ -1,0 +1,114 @@
+cv:
+  name: Ali El Husseini
+  label: PhD Candidate, National University of Singapore
+  email: elhusseiniali@u.nus.edu
+  location: Singapore
+  image: ""
+  summary: >
+    PhD candidate in the Programming Languages and Software Engineering (PLSE) lab at the National
+    University of Singapore, advised by Prof. Abhik Roychoudhury and Prof. Blaise Genest, and part of
+    the Descartes program. My research focuses on improving the security of large language models
+    (and the agentic systems built on top of them) by understanding and analyzing how these models operate.
+
+  social_networks:
+    - network: GitHub
+      username: elhusseiniali
+
+  sections:
+    Education:
+      - institution: National University of Singapore
+        location: Singapore
+        area: Computer Science
+        studyType: PhD Candidate, Programming Languages and Software Engineering (PLSE) lab
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - "Advised by Prof. Abhik Roychoudhury and Prof. Blaise Genest, as part of the Descartes program."
+          - "Research focus: improving the security of large language models and LLM-based agent systems."
+
+      - institution: Ecole Normale Superieure
+        location: Paris, France
+        area: Computer Science
+        studyType: "M1 and M2, Parisian Masters of Research in Computer Science (MPRI)"
+        start_date: 2019-09
+        end_date: 2022-12
+
+      - institution: American University of Beirut
+        location: Beirut, Lebanon
+        area: Computer Science and Philosophy
+        studyType: "BS in Computer Science, BA in Philosophy"
+        start_date: 2014-09
+        end_date: 2019-06
+
+    Experience:
+      - company: INRIA Paris
+        position: Research Intern
+        location: Paris, France
+        start_date: 2022-03
+        end_date: 2022-08
+        summary: >
+          Worked on an abstract domain to represent data transformations inside Jupyter notebooks,
+          implemented within LiSA (https://github.com/UniVE-SSV/pylisa/), to study the safety and
+          sensitivity of notebooks to changes in data shapes and the soundness of results. Supervised
+          by Dr. Caterina Urban.
+
+      - company: Commissariat à l'Énergie Atomique (CEA)
+        position: Research Intern
+        location: France
+        start_date: 2021-04
+        end_date: 2021-09
+        summary: >
+          Used abstract interpretation to verify formal properties (e.g., robustness) of neural
+          networks, focusing on the soundness of the numerical computations required by the analysis
+          on GPUs. Supervised by Dr. Zakaria Chihani and Augustin Lemesle.
+
+      - company: Centre National de la Recherche Scientifique (CNRS)
+        position: Research Intern
+        location: France
+        start_date: 2020-06
+        end_date: 2020-08
+        summary: >
+          Developed a modern Python library to handle Simple Regular Expressions (see
+          https://doi.org/10.1023/B:FORM.0000033962.51898.1a), to facilitate the analysis of lossy
+          channel systems and verification of formal properties. Supervised by Dr. Philippe
+          Schnoebelen. Code: https://github.com/elhusseiniali/sre.
+
+    Publications:
+      - title: Repairing LLM Executions for Secure Automatic Programming
+        authors:
+          - Ali El Husseini
+          - Yacine Izza
+          - Blaise Genest
+          - Abhik Roychoudhury
+        publisher: International Conference on Software Engineering (ICSE)
+        releaseDate: 2026
+        url: https://abhikrc.com/pdf/ICSE26-security.pdf
+        summary: >
+          Proposed a novel approach to identify and repair internal representations that cause a large
+          language model to produce vulnerable code, via a tool that monitors the LLM at run-time and
+          intervenes to improve the security of the generated code.
+
+      - title: Detecting Python Malware in the Software Supply Chain with Program Analysis
+        authors:
+          - Ridwan Shariffdeen
+          - Behnaz Hassanshahi
+          - Martin Mirchev
+          - Ali El Husseini
+          - Abhik Roychoudhury
+        publisher: "International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)"
+        releaseDate: 2025
+        url: https://abhikrc.com/pdf/ICSE25_SEIP.pdf
+        summary: >
+          Proposed a program-analysis-based approach to detect supply chain attacks in the Python
+          ecosystem, combining AST-level differential analysis, CodeQL-based behavioral detection, and
+          transitive dependency tracking to identify malicious Python packages.
+
+    Languages:
+      - name: Arabic
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: French
+        summary: "B2"
