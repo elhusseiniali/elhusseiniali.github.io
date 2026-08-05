@@ -1,9 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICSE’26":
+  url: https://conf.researchr.org/dates/icse-2026
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"ICSE-SEIP’25":
+  url: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice
