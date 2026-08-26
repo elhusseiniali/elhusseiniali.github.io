@@ -5,10 +5,10 @@ cv:
   location: Singapore
   image: ""
   summary: >
-    PhD candidate in the Programming Languages and Software Engineering (PLSE) lab at the National
-    University of Singapore, advised by Prof. Abhik Roychoudhury and Prof. Blaise Genest, and part of
-    the Descartes program. My research focuses on improving the security of large language models
-    (and the agentic systems built on top of them) by understanding and analyzing how these models operate.
+    PhD candidate in the Trustworthy and Secure Software group at the National University of Singapore,
+    advised by Prof. Abhik Roychoudhury. My research focuses on improving the security of large language
+    models (and the agentic systems built on top of them) by understanding and analyzing how these models
+    operate.
 
   social_networks:
     - network: GitHub
@@ -19,14 +19,14 @@ cv:
       - institution: National University of Singapore
         location: Singapore
         area: Computer Science
-        studyType: PhD Candidate, Programming Languages and Software Engineering (PLSE) lab
+        studyType: PhD Candidate, Trustworthy and Secure Software group
         start_date: 2023-01
         end_date: present
         highlights:
-          - "Advised by Prof. Abhik Roychoudhury and Prof. Blaise Genest, as part of the Descartes program."
+          - "Advised by Prof. Abhik Roychoudhury."
           - "Research focus: improving the security of large language models and LLM-based agent systems."
 
-      - institution: Ecole Normale Superieure
+      - institution: École Normale Supérieure Paris-Saclay
         location: Paris, France
         area: Computer Science
         studyType: "M1 and M2, Parisian Masters of Research in Computer Science (MPRI)"
