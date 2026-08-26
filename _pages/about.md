@@ -22,8 +22,7 @@ latest_posts:
 ---
 
 I am a PhD candidate in the [Trustworthy and Secure Software](https://nus-tss.github.io/) group at the National
-University of Singapore, advised by [Prof. Abhik Roychoudhury](https://abhikrc.com) and
-[Prof. Blaise Genest](https://perso.crans.org/genest/). My research focuses on improving the security of large language models (and the agentic
+University of Singapore, advised by [Prof. Abhik Roychoudhury](https://abhikrc.com). My research focuses on improving the security of large language models (and the agentic
 systems built on top of them) by understanding and analyzing how these models operate.
 
 Before NUS, I completed the [Parisian Masters of Research in Computer Science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=start)
